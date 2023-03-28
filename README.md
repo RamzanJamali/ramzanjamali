@@ -1,3 +1,1 @@
 Motivated software developer with two years of experience. Passionate about building models that fix problems. Relevant skills include data preprocessing, machine learning, programming, mathematics, problem-solving, and creative thinking. Soft skills include research, collaboration, time management and communication.
-
-I am editing the README file. Adding some more details about the project description.
